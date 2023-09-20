@@ -109,7 +109,7 @@ author:
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Product Analytic"
   location: "Saint-Petersburg"
-  email: "dki@kode.ru"
+  email: ["dki@kode.ru","kummelfeld@gmail.com"]
   links:
     - label: "Personal email"
       icon: "fas fa-fw fa-envelope-square"
