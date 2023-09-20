@@ -107,13 +107,13 @@ analytics:
 author:
   name: "Dima Kimelfeld"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Product analytic"
+  bio: "Product Analytic"
   location: "Saint-Petersburg"
-  email: dki@kode.ru
+  email: "dki@kode.ru"
   links:
     - label: "Personal email"
       icon: "fas fa-fw fa-envelope-square"
-      url: kummelfeld@gmail.com
+      url: "kummelfeld@gmail.com"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
