@@ -105,30 +105,19 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Dima Kimelfeld"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
-  location: "Philadelphia"
-  email:
+  bio: "Product analytic"
+  location: "Saint-Petersburg"
+  email: dki@kode.ru
   links:
-    - label: "Email"
+    - label: "Personal email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: kummelfeld@gmail.com
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/ku9efeld"
 
 # Site Footer
 footer:
